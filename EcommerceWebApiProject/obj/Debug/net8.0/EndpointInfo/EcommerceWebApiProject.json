@@ -994,7 +994,7 @@
           "users": {
             "type": "array",
             "items": {
-              "$ref": "#/components/schemas/User"
+              "$ref": "#/components/schemas/Order"
             },
             "nullable": true
           }

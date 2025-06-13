@@ -17,11 +17,11 @@ namespace EcommerceWebApiProject.Models
         public string Password { get; set; }
 
         [Required]
-        public string Role { get; set; }
+        public string Role { get; set; } = "User";
 
         public bool IsDeleted { get; set; } = false;
 
-        public ICollection<User> Users { get; set; } = new List<User>();
+        public ICollection<Order> Users { get; set; } = new List<Order>();
 
     }
 }

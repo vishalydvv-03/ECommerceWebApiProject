@@ -294,3 +294,4 @@ C:\Users\visha\source\repos\ECommerceWebApiProject\EcommerceWebApiProject\obj\De
 C:\Users\visha\source\repos\ECommerceWebApiProject\EcommerceWebApiProject\obj\Debug\net8.0\EcommerceWebApiProject.pdb
 C:\Users\visha\source\repos\ECommerceWebApiProject\EcommerceWebApiProject\obj\Debug\net8.0\EcommerceWebApiProject.genruntimeconfig.cache
 C:\Users\visha\source\repos\ECommerceWebApiProject\EcommerceWebApiProject\obj\Debug\net8.0\ref\EcommerceWebApiProject.dll
+C:\Users\Nimap\source\repos\ECommerceWebApiProject\EcommerceWebApiProject\obj\Debug\net8.0\EcommerceWebApiProject.sourcelink.json
