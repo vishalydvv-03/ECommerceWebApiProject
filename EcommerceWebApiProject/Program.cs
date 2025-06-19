@@ -1,3 +1,4 @@
+using EcommerceWebApiProject.Middlewares;
 using EcommerceWebApiProject.Models.Data;
 using EcommerceWebApiProject.Repository;
 using EcommerceWebApiProject.Services;
@@ -14,6 +15,8 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("default")));
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+
+builder.Services.AddTransient<GlobalExceptionHandlingMiddleware>();
 
 builder.Services.AddScoped<IJwtServiceToken, JwtServiceToken>();
 
@@ -49,6 +52,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseMiddleware<GlobalExceptionHandlingMiddleware>();
 
 app.UseHttpsRedirection();
 

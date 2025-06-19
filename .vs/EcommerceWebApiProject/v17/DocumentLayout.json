@@ -3,20 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\services\\jwtservicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\services\\jwtservicetoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|solutionrelative:ecommercewebapiproject\\repository\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C933901C-9CC3-4ADB-8362-5262F3075FD2}|EcommerceWebApiProject\\EcommerceWebApiProject.csproj|c:\\users\\nimap\\source\\repos\\ecommercewebapiproject\\ecommercewebapiproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,7 +66,84 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "JwtServiceToken.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Services\\JwtServiceToken.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA1wB4AAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:11:46.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:10:03.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Repository\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:38:48.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:17:01.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwD0AAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T06:13:17.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Program.cs",
+              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Program.cs",
+              "RelativeToolTip": "EcommerceWebApiProject\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T08:11:42.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "20250613082747_Updated User Model.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250613082747_Updated User Model.cs",
               "RelativeDocumentMoniker": "EcommerceWebApiProject\\Migrations\\20250613082747_Updated User Model.cs",
@@ -58,19 +155,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\User.cs",
               "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\User.cs",
               "RelativeToolTip": "EcommerceWebApiProject\\Models\\User.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAA7wBMAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:26:01.656Z"
+              "WhenOpened": "2025-06-13T08:26:01.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 8,
               "Title": "OrderRepository.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Repository\\OrderRepository.cs",
               "RelativeDocumentMoniker": "EcommerceWebApiProject\\Repository\\OrderRepository.cs",
@@ -78,24 +176,11 @@
               "RelativeToolTip": "EcommerceWebApiProject\\Repository\\OrderRepository.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:12:20.779Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T08:12:20.779Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Program.cs",
-              "RelativeDocumentMoniker": "EcommerceWebApiProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Program.cs",
-              "RelativeToolTip": "EcommerceWebApiProject\\Program.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T08:11:42.589Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "OrdersController.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Controllers\\OrdersController.cs",
               "RelativeDocumentMoniker": "EcommerceWebApiProject\\Controllers\\OrdersController.cs",
@@ -107,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Models\\Order.cs",
               "RelativeDocumentMoniker": "EcommerceWebApiProject\\Models\\Order.cs",
@@ -115,12 +200,11 @@
               "RelativeToolTip": "EcommerceWebApiProject\\Models\\Order.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-13T04:18:52.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-13T04:18:52.086Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "20250613041814_Updated Products to have Many to Many Relationship with Orders.cs",
               "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\ECommerceWebApiProject\\EcommerceWebApiProject\\Migrations\\20250613041814_Updated Products to have Many to Many Relationship with Orders.cs",
               "RelativeDocumentMoniker": "EcommerceWebApiProject\\Migrations\\20250613041814_Updated Products to have Many to Many Relationship with Orders.cs",
